@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kobenulonazo.pages.dev/sitemap.xml
